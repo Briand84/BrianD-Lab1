@@ -1,3 +1,9 @@
+/*Error Message: Mutex: 0x200015FC, Not allowed in ISR context (Something happening in the SRAM location that the 
+microcontroller is not happy about)Green LED on mbed LED1 flashing SOS sequence*/
+
+
+
+
 #include "mbed.h"
 
 // main() runs in its own thread in the OS
